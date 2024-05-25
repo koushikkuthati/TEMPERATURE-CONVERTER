@@ -33,7 +33,7 @@ public class HelloApplication extends Application {
         rootnode.getChildren().add(0,menuBar);
         Scene scene = new Scene( rootnode);
 
-        stage.setTitle("Temperature Converter");
+        stage.setTitle("Temperature Converter Tool");
 
 
 
